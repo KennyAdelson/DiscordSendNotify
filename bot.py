@@ -1,4 +1,3 @@
-# 導入Discord.py模組
 import discord
 
 intents = discord.Intents.default()
